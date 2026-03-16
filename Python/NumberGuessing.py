@@ -28,7 +28,7 @@ if Ask == "Yes":
                 print("\nToo Low!, Try Again.")
                 
             else:
-                print("\nCongress, You are right this is your Number..")
+                print("\nCongress, You Guess The Number..")
                 break
 
 
